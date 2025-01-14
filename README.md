@@ -34,11 +34,4 @@ Kurssi arvioidaan asteikolla 1-5.
 - Suorita noin yksi kappale viikossa, jotta saat kurssin suoritettua viikolla 9.
 - Kurssin tehtävät suoritettavissa 31.3. asti, mutta suositellaan suoritettavaksi ennen Projektiopinnot 3 -kurssin aloittamista.
 
-### Opettaja
-- **Nimi:** Pekka Huttunen
-- **Sähköposti:** pekka.huttunen@kamk.fi
-
-### Kurssin yhteystiedot
-- **Discord-kanava:** #2025-ai-system-engineering
-- **Youtube-soittolista:** [Kurssivideot](https://www.youtube.com/watch?v=fMwlInvKlXc&list=PLgnMj4YqI8NlA-1nNoX8OIh1SQmRuJjjE) (perustuu edellisen vuoden videoihin, päivittyy mahdollisesti kurssin aikana).
 
